@@ -1,0 +1,1 @@
+A waveform display system. It supports reading arbitrary files in binary format and plotting waveform graphs. It also supports integration and differentiation calculations.
